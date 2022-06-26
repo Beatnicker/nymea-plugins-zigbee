@@ -1,3 +1,15 @@
+nymea-plugins-zigbee (1.2.1) jammy; urgency=medium
+
+  [ Michael Zanetti ]
+  * WIP: Develco: Update airqualitysensor name
+  * Generic: Add fire sensor support
+  * Generic: Add support for temperature sensors
+  * Develco: Add smoke, water, motion and door sensor device support
+  * Generic: Add support for Water, humidity and illuminance sensors
+  * Develco: Fix a crash in handleNode()
+
+ -- jenkins <developer@nymea.io>  Sun, 26 Jun 2022 10:43:57 +0200
+
 nymea-plugins-zigbee (1.2.0) jammy; urgency=medium
 
   [ Michael Zanetti ]
